@@ -1,0 +1,14 @@
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.deps.json
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.runtimeconfig.json
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.dll
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.pdb
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.csproj.AssemblyReference.cache
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.AssemblyInfoInputs.cache
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.AssemblyInfo.cs
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.csproj.CoreCompileInputs.cache
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.dll
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\refint\ToDoList.Domain.dll
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.pdb
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.genruntimeconfig.cache
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ref\ToDoList.Domain.dll

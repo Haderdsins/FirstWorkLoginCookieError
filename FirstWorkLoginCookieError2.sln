@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.FirstWork", "ToDoList.FirstWork\ToDoList.FirstWork.csproj", "{5D9F9D50-C8F1-4BFF-BC0C-615C9D1E1792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Domain", "ToDoList.Domain\ToDoList.Domain.csproj", "{D0A0C095-DCB1-4C34-AD52-92CBB39995CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9F9D50-C8F1-4BFF-BC0C-615C9D1E1792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9F9D50-C8F1-4BFF-BC0C-615C9D1E1792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9F9D50-C8F1-4BFF-BC0C-615C9D1E1792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9F9D50-C8F1-4BFF-BC0C-615C9D1E1792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A0C095-DCB1-4C34-AD52-92CBB39995CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A0C095-DCB1-4C34-AD52-92CBB39995CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A0C095-DCB1-4C34-AD52-92CBB39995CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A0C095-DCB1-4C34-AD52-92CBB39995CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
