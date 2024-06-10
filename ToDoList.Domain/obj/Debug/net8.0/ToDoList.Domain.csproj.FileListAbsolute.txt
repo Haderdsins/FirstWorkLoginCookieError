@@ -12,3 +12,4 @@ D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ref
 D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.pdb
 D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.genruntimeconfig.cache
 D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ref\ToDoList.Domain.dll
+D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.sourcelink.json
