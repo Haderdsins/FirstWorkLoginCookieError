@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="669d2f57-1764-4318-85d5-251bcd768662" name="Changes" comment="feat: добавлены миграции, модель для авторизации и регистрации" />
+    <list default="true" id="669d2f57-1764-4318-85d5-251bcd768662" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +21,7 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -107,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718027434627</updated>
       <workItem from="1718027435940" duration="4231000" />
-      <workItem from="1718035426849" duration="6136000" />
+      <workItem from="1718035426849" duration="6190000" />
     </task>
     <task id="LOCAL-00001" summary="feat: добавлены миграции, модель для авторизации и регистрации">
       <option name="closed" value="true" />
@@ -117,15 +118,25 @@
       <option name="project" value="LOCAL" />
       <updated>1718048154745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: отредактирован гит игнор">
+      <option name="closed" value="true" />
+      <created>1718048239634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718048239634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat: добавлены миграции, модель для авторизации и регистрации" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: добавлены миграции, модель для авторизации и регистрации" />
+    <MESSAGE value="fix: отредактирован гит игнор" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: отредактирован гит игнор" />
   </component>
 </project>

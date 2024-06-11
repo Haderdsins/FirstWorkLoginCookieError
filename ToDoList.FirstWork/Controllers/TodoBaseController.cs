@@ -4,5 +4,4 @@ namespace FirstWork.Controllers;
 
 public abstract class TodoBaseController : Controller
 {
-    
 }

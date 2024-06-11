@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\TryHARD\growUp\FirstWorkLoginCookieError\ToDoList.FirstWork
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/TryHARD/growUp/FirstWorkLoginCookieError/ToDoList.FirstWork/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TryHARD/growUp/FirstWorkLoginCookieError/ToDoList.FirstWork/Views/Account/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TryHARD/growUp/FirstWorkLoginCookieError/ToDoList.FirstWork/Views/Account/_Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/TryHARD/growUp/FirstWorkLoginCookieError/ToDoList.FirstWork/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

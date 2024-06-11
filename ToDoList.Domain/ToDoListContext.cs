@@ -2,15 +2,14 @@
 
 namespace ToDoList.Domain;
 
-    public class ToDoListContext : DbContext
+public class ToDoListContext : DbContext
+{
+    public ToDoListContext(DbContextOptions options) : base(options)
     {
-        public ToDoListContext(DbContextOptions options) : base(options)
-        {
-        }
-        
-        
-        public DbSet<User> Users { get; set; }
-     
-        public DbSet<TaskApp> Tasks { get; set; }
     }
-    
+
+
+    public DbSet<User> Users { get; set; }
+
+    public DbSet<TaskApp> Tasks { get; set; }
+}

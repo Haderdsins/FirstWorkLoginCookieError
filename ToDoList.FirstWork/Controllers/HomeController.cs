@@ -1,6 +1,6 @@
 using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
 using FirstWork.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace FirstWork.Controllers;
 

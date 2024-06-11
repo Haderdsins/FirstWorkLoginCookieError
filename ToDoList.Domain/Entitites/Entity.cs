@@ -7,5 +7,4 @@ public abstract class Entity<TPrimaryKey>
 
 public abstract class Entity : Entity<int>
 {
-    
 }
