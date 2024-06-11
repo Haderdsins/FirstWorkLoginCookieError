@@ -7,29 +7,28 @@ namespace FirstWork.Models.Account;
 /// </summary>
 public class AccountViewModel
 {
-    public LoginViewModel LoginViewModel { get; set; }
-
-    public RegisterViewModel RegisterViewModel { get; set; }
+    public LoginViewModel? LoginViewModel { get; set; }
+    public RegisterViewModel? RegisterViewModel { get; set; }
 }
 
-public class LoginViewModel //модель для авторизации
+public class LoginViewModel
 {
     [Required(ErrorMessage = "Данное поле обязательное")]
-    public string Login { get; set; }
+    public string? Login { get; set; }
 
     [Required(ErrorMessage = "Данное поле обязательное")]
-    public string Password { get; set; }
+    public string? Password { get; set; }
 }
 
-public class RegisterViewModel //модель для регистрации
+public class RegisterViewModel
 {
     [Required(ErrorMessage = "Данное поле обязательное")]
-    public string Login { get; set; }
+    public string? Login { get; set; }
 
     [Required(ErrorMessage = "Данное поле обязательное")]
-    public string Password { get; set; }
+    public string? Password { get; set; }
 
     [Required(ErrorMessage = "Данное поле обязательное")]
     [Compare("Password", ErrorMessage = "Пароли не совпадают")]
-    public string RepeatPassword { get; set; }
+    public string? RepeatPassword { get; set; }
 }

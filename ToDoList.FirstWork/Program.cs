@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using ToDoList.Domain;
 
@@ -11,6 +12,10 @@ builder.Services.AddDbContext<ToDoListContext>(opt =>
     opt.UseSqlServer(
         connectionString)); //регистрируеим контекст базы данных в контрейнер зависимости, также указываем что в качестве настройки используем субд sql сервер
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options => options.LoginPath = "/account");
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
