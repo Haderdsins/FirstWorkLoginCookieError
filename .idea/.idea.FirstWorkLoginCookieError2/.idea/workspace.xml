@@ -9,11 +9,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="669d2f57-1764-4318-85d5-251bcd768662" name="Changes" comment="feat: добавлены страничные модели для авторизации, регистрации, и главной страницы">
+    <list default="true" id="669d2f57-1764-4318-85d5-251bcd768662" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Home/PrintInfo.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/3e448c22-aaa3-48ec-898f-e57b5683a404.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/3e448c22-aaa3-48ec-898f-e57b5683a404.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/master.YiqNvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/model.KfszBg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/model.KfszBg/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/msdb.pEgzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/msdb.pEgzAA/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/msdb.pEgzAA/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/tempdb.Uqu0yw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/dataSources/91506698-1414-4ca0-8fc3-eac952286f9a/storage_v2/_src_/database/todolistapp.vXmvYw/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FirstWorkLoginCookieError2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.Domain/Entitites/TaskApp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/Entitites/TaskApp.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.Domain/Entitites/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/Entitites/User.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.Domain/ToDoListContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/ToDoListContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.AssemblyInfo.cs" afterDir="false" />
@@ -27,23 +53,30 @@
       <change beforePath="$PROJECT_DIR$/ToDoList.Domain/obj/ToDoList.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/obj/ToDoList.Domain.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Controllers/AccountController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/Models/Account/AccountViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Models/AccountViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Account/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Account/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Account/_Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Account/_Login.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Account/_Register.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Account/_Register.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.FirstWork.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.FirstWork.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.FirstWork.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.FirstWork.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.FirstWork.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/bin/Debug/net8.0/ToDoList.FirstWork.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ToDoList.FirstWork.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ref/ToDoList.FirstWork.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/ref/ToDoList.FirstWork.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/refint/ToDoList.FirstWork.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/Debug/net8.0/refint/ToDoList.FirstWork.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/ToDoList.FirstWork.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/ToDoList.FirstWork.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/ToDoList.FirstWork.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/ToDoList.FirstWork.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDoList.FirstWork/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList.FirstWork/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +89,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c8e05358dbdd4c4fa81f86282349540644920/25/9c5e4254/LinkTagHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/TryHARD/growUp/FirstWorkLoginCookieError/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/TryHARD/growUp/FirstWorkLoginCookieError/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -72,6 +107,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.FirstWork: IIS Express.executor&quot;: &quot;Run&quot;,
     &quot;.NET Launch Settings Profile.FirstWork: http.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -91,7 +127,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.FirstWork: http">
+  <component name="RunManager" selected=".NET Launch Settings Profile.FirstWork: IIS Express">
     <configuration name="FirstWork: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ToDoList.FirstWork/ToDoList.FirstWork.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -148,7 +184,13 @@
       <updated>1718027434627</updated>
       <workItem from="1718027435940" duration="4231000" />
       <workItem from="1718035426849" duration="6190000" />
-      <workItem from="1718107130972" duration="13480000" />
+      <workItem from="1718107130972" duration="16253000" />
+      <workItem from="1718356888654" duration="1860000" />
+      <workItem from="1718648617888" duration="963000" />
+      <workItem from="1718725334335" duration="51000" />
+      <workItem from="1718747415109" duration="274000" />
+      <workItem from="1718792904847" duration="69000" />
+      <workItem from="1718971425438" duration="345000" />
     </task>
     <task id="LOCAL-00001" summary="feat: добавлены миграции, модель для авторизации и регистрации">
       <option name="closed" value="true" />
@@ -174,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718109069797</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: починено распределение для моделей у _Login.cshtml _Register.cshtml Index.cshtml">
+      <option name="closed" value="true" />
+      <created>1718135147499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718135147499</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +247,7 @@
     <MESSAGE value="feat: добавлены миграции, модель для авторизации и регистрации" />
     <MESSAGE value="fix: отредактирован гит игнор" />
     <MESSAGE value="feat: добавлены страничные модели для авторизации, регистрации, и главной страницы" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: добавлены страничные модели для авторизации, регистрации, и главной страницы" />
+    <MESSAGE value="fix: починено распределение для моделей у _Login.cshtml _Register.cshtml Index.cshtml" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: починено распределение для моделей у _Login.cshtml _Register.cshtml Index.cshtml" />
   </component>
 </project>

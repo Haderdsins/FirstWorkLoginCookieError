@@ -20,6 +20,16 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult PrintInfo()
+    {
+        return View();
+    }
+
+    public IActionResult PrintInfoAboutWeather()
+    {
+        return View();
+    }
+
     public IActionResult Privacy()
     {
         return View();
